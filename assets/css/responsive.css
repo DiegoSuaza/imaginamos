@@ -1,0 +1,33 @@
+@media (max-width: 575.98px) {
+	.abrir{
+		width: 100% !important;
+	}
+	.main{
+		margin: auto !important;
+	}
+	a.navbar-brand{
+		margin-left: 0 !important;
+	}
+	div.bod{
+		margin-top: 30% !important;
+	}
+	.publicidad{
+		height: fit-content;
+	}
+	.publicidad a{
+		bottom: -10px;
+	}
+	.categorias > button{
+		display: none !important;
+	}
+	.navbar-collapse{
+		margin-left:-15px !important;    
+	    position: absolute !important;
+	    top: 60px;
+	    padding: 5px;
+	    background: white;
+	}
+	#navbarColor01{
+		height: 54px;
+	}
+}
